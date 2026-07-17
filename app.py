@@ -32,7 +32,8 @@ interface = gr.Interface(
     ],
     outputs=gr.Text(label="Assessment Result"),
     title="Diabetes Prediction System",
-    description="Project by Parth /n Enter the medical metrics to predict diabetes risk using a Decision Tree Machine Learning model."
+    description="""Project by Parth - Piet(241504)
+    Enter the medical metrics to predict diabetes risk using a Decision Tree Machine Learning model."""
 )
 # ------------------------------------------
 
